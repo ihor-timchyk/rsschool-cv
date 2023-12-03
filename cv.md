@@ -34,4 +34,7 @@ function add(a, b) {
 }
 ```
 
+**Work Experience**
+
+* [coffee house. week-1](https://rolling-scopes-school.github.io/ihor-timchyk-JSFE2023Q4/coffee-house/dist/)
 
