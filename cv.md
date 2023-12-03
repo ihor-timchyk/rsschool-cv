@@ -34,16 +34,16 @@ function add(a, b) {
 }
 ```
 
-**Work Experience**
+**Work Experiences**
 
-* [coffee house. week-1](https://rolling-scopes-school.github.io/ihor-timchyk-JSFE2023Q4/coffee-house/dist/)
+* [coffee house. week-1](https://rolling-scopes-school.github.io/ihor-timchyk-JSFE2023Q4/coffee-house/dist/).
 
 **Education**
 
 * (2009 - 2014)Chernivtsi National University, mathematics;
 * (2023 - ... )Rolling Scopes school course.
 
-**Language**
+**Languages**
 
-* Ukrainian: native
-* English: B1
+* Ukrainian: native;
+* English: B1.
