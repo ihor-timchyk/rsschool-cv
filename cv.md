@@ -26,3 +26,12 @@ In addition to mathematics, I was also interested in JavaScript programming.
 * css, html, webpack, sass
 * git, figma
 
+**Code Examples**
+
+```
+function add(a, b) {
+    return a + b;
+}
+```
+
+
