@@ -18,5 +18,11 @@ I work as a mathematics teacher at a school.
 This work requires being open to new knowledge, communication, 
 and solving non-standard problems.
 
-In addition to mathematics, I was also interested in JavaScript programming. 
+In addition to mathematics, I was also interested in JavaScript programming.
+
+**Skills**
+
+* programming languages: JavaScript and Java;
+* css, html, webpack, sass
+* git, figma
 
