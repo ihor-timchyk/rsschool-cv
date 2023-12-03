@@ -43,3 +43,7 @@ function add(a, b) {
 * (2009 - 2014)Chernivtsi National University, mathematics;
 * (2023 - ... )Rolling Scopes school course.
 
+**Language**
+
+* Ukrainian: native
+* English: B1
